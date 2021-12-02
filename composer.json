@@ -17,12 +17,15 @@
         }
     ],
     "require": {
-        "php" : ">=5.4"
+        "php" : "^7.4"
     },
     "homepage" : "https://github.com/rfookune/lara-pdf-merger-php-7-2",
     "autoload": {
         "psr-4": {
             "Nextek\\LaraPdfMerger\\": "src/"
         }
+    },
+    "require-dev": {
+        "rector/rector": "^0.12.5"
     }
 }
