@@ -1,10 +1,7 @@
 {
-    "name": "rfookune/lara-pdf-merger-php-7-2",
-    "description": "Forked from https://github.com/deltaaskii/lara-pdf-merger. Replaced each() (depreciated in php 7.2) to foreach.",
+    "name": "damiansakwinski/lara-pdf-merger-php-7-4",
+    "description": "Forked from https://github.com/rfookune/lara-pdf-merger-php-7-2.",
     "keywords": ["merger","merge","pdf","manage","paginate", "laravel"],
-    "license" : [
-        "MIT"
-    ],
     "authors": [
         {
             "name": "Michael Musso",
