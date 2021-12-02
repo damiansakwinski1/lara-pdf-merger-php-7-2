@@ -10,7 +10,7 @@ require_once('tcpdf/tcpdi.php');
 
 class PdfManage
 {
-    private $_files;    //['form.pdf']  ["1,2,4, 5-19"]
+    private ?array $_files = null;    //['form.pdf']  ["1,2,4, 5-19"]
     private $_fpdi;
 
     /**
