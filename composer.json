@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "php" : "^7.4"
+        "php" : "<=8.*"
     },
     "homepage" : "https://github.com/rfookune/lara-pdf-merger-php-7-2",
     "autoload": {
